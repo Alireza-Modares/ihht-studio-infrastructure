@@ -1,6 +1,6 @@
 # IHHT Self-Service-Studio — Netzwerk- & Zutrittsinfrastruktur
 
-**Rolle:** Systemintegration / Infrastruktur-Konzeption & Umsetzung (Einzelauftrag, im Rahmen meiner Umschulung zum Fachinformatiker für Systemintegration)
+**Rolle:** Systemintegration / Infrastruktur-Konzeption & Umsetzung
 **Kunde:** Wellness-/Gesundheitsstudio (IHHT-Hypoxie-Training), Self-Service-Betrieb ohne durchgehende Mitarbeiterpräsenz
 **Zeitraum:** 2026
 
@@ -8,7 +8,7 @@
 
 ## Projektkontext
 
-Das Studio funktioniert komplett ohne feste Mitarbeiterpräsenz: Mitglieder öffnen die Tür per persönlichem Zugangscode, nutzen ein freies Trainingsgerät, die Tür verriegelt beim Verlassen automatisch. Meine Aufgabe war die komplette technische Konzeption und Einrichtung der dafür nötigen Infrastruktur — von der Zutrittskontrolle über die Überwachung bis zum Remote-Monitoring.
+Das Studio funktioniert komplett ohne feste Mitarbeiterpräsenz: Mitglieder öffnen die Tür per persönlichem Zugangscode, nutzen ein freies Trainingsgerät, die Tür verriegelt beim Verlassen automatisch. Meine Aufgabe war die komplette technische Konzeption und Einrichtung der dafür nötigen Infrastruktur. Von der Zutrittskontrolle über die Überwachung bis zum Remote-Monitoring.
 
 ## Architektur
 
